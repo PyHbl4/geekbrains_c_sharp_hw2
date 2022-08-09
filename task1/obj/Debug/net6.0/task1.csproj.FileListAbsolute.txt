@@ -1,0 +1,15 @@
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\bin\Debug\net6.0\task1.exe
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\bin\Debug\net6.0\task1.deps.json
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\bin\Debug\net6.0\task1.dll
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\bin\Debug\net6.0\task1.pdb
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.dll
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\refint\task1.dll
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.pdb
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\учеба\GB\КУРС3 - знакомство с языками программирования\geekbrains_c_sharp_hw2\task1\obj\Debug\net6.0\ref\task1.dll
